@@ -1,0 +1,10 @@
+/* estilos css */
+h1 {
+            
+    color: blue;
+}
+p {
+
+    background-color: yellow;
+    text-align: center; /*Añadimos la alineacion al centro*/
+}
